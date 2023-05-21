@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1684673432" />
+    <testcase name="dut_test" classname="dut_test" file="/home/rishisin999/Desktop/assignment-1-xor-verification-rishisin999/tests/dut_test.py" lineno="5" time="0.0007295608520507812" sim_time_ns="4.001" ratio_time="5484.121014379086" />
+  </testsuite>
+</testsuites>
